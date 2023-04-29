@@ -1,11 +1,9 @@
 import { Navigation } from "@/components/Navigation"
 import { SupabaseProvider } from "@/components/supabase-provider"
-import "@/styles/globals.css"
 
 type Props = {
   children: React.ReactNode
 }
-
 // レイアウト
 const RootLayout = async ({ children }: Props) => {
   return (
@@ -21,5 +19,4 @@ const RootLayout = async ({ children }: Props) => {
     </html>
   )
 }
-
 export default RootLayout

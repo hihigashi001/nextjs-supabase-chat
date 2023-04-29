@@ -1,0 +1,5 @@
+{
+  "codic.ACCESS_TOKEN": "AsyKKS68XgyTajF5Z4e1rH2AczQxuqH0su",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
